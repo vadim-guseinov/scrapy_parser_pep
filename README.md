@@ -39,7 +39,7 @@ Python 3.12 · Scrapy 2.9 · Twisted · parsel (CSS/XPath) · itemadapter · csv
 **Требования:** Python 3.10+ (проверено на 3.12).
 
 ```bash
-git clone https://github.com/JuliaDJ1/scrapy_parser_pep.git
+git clone https://github.com/vadim-guseinov/scrapy_parser_pep.git
 cd scrapy_parser_pep
 
 python -m venv venv
@@ -71,7 +71,7 @@ tests/
 
 ## См. также
 
-[bs4_parser_pep](https://github.com/JuliaDJ1/bs4_parser_pep) — синхронная версия на requests + BeautifulSoup с дополнительными режимами.
+[bs4_parser_pep](https://github.com/vadim-guseinov/bs4_parser_pep) — синхронная версия на requests + BeautifulSoup с дополнительными режимами.
 
 ## Автор
 
